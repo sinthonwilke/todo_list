@@ -1,4 +1,4 @@
-# App-todolist
+# todolist
 
 This app was created for experimental use with Flutter.
 
